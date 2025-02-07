@@ -1,6 +1,9 @@
-# Welcome to your Expo app 👋
+# 📦 Offline Shipment Booking App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is an  project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+
+This is a React Native app built with [Expo](https://expo.dev) and TypeScript. This project was created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app), it allows users to create, store, and retrieve shipments using local storage. 
+The app features a clean UI powered by [NativeWind](https://www.nativewind.dev/), a utility-first styling framework for React Native.
 
 ## Get started
 
