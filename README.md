@@ -1,19 +1,40 @@
 # 📦 Offline Shipment Booking App
 
-This is an  project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
 This is a React Native app built with [Expo](https://expo.dev) and TypeScript. This project was created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app), it allows users to create, store, and retrieve shipments using local storage. 
 The app features a clean UI powered by [NativeWind](https://www.nativewind.dev/), a utility-first styling framework for React Native.
 
-## Get started
+## 🚀 Get started
 
-1. Install dependencies
+1️⃣ Prerequisites
+* Ensure you have Node.js installed [Download here](https://nodejs.org/en).
+* Install Expo CLI globally:
+
+  ```bash
+   npm install -g expo-cli
+   ```
+* Install a mobile simulator:
+   [IOS Simulator (Mac)](https://docs.expo.dev/workflow/ios-simulator/)
+   [Android Simulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+         OR
+   Install the Expo GO App on your mobile Phone.
+
+2️⃣ Installation
+* Clone this repository and install dependencies:
+
+   ```bash
+   git clone https://github.com/KvngMikey/Offline-Booking.git
+   ```
+
+   ```bash
+   cd offline-booking
+   ```
 
    ```bash
    npm install
    ```
 
-2. Start the app
+3️⃣ Running the App
+* To start the development server, run:
 
    ```bash
     npx expo start
@@ -28,15 +49,13 @@ In the output, you'll find options to open the app in a
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+✨ Features
+✅ Built with TypeScript for type safety.
+✅ Styled with NativeWind for clean and efficient UI design.
+✅ Local Storage Support to save and retrieve shipment data.
+✅ Date Pickers for selecting pickup and delivery dates.
+✅ Dynamic UI Components for listing shipments elegantly.
+✅ Cross-platform Support (Runs on iOS, Android, and Web via Expo).
 
 ## Learn more
 
