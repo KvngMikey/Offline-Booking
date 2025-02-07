@@ -48,12 +48,12 @@ In the output, you'll find options to open the app in a
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo (If you installed the Expo Go app on your phone, you can use your phone camera to scan the QR code shown when development server is up, you'll get a prompt to open in Expo Go from your camera, click on that prompt.)
 
 ✨ Features
-✅ Built with TypeScript for type safety.
-✅ Styled with NativeWind for clean and efficient UI design.
-✅ Local Storage Support to save and retrieve shipment data.
-✅ Date Pickers for selecting pickup and delivery dates.
-✅ Dynamic UI Components for listing shipments elegantly.
-✅ Cross-platform Support (Runs on iOS, Android, and Web via Expo).
+* ✅ Built with TypeScript for type safety.
+* ✅ Styled with NativeWind for clean and efficient UI design.
+* ✅ Local Storage Support to save and retrieve shipment data.
+* ✅ Date Pickers for selecting pickup and delivery dates.
+* ✅ Dynamic UI Components for listing shipments elegantly.
+* ✅ Cross-platform Support (Runs on iOS, Android, and Web via Expo).
 
 ## Learn more
 
