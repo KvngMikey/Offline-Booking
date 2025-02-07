@@ -13,8 +13,8 @@ The app features a clean UI powered by [NativeWind](https://www.nativewind.dev/)
    npm install -g expo-cli
    ```
 * Install a mobile simulator:
-   [IOS Simulator (Mac)](https://docs.expo.dev/workflow/ios-simulator/)
-   [Android Simulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+   [IOS Simulator (Mac)](https://docs.expo.dev/workflow/ios-simulator/).
+   [Android Simulator](https://docs.expo.dev/workflow/android-studio-emulator/).
          OR
    Install the Expo GO App on your mobile Phone.
 
